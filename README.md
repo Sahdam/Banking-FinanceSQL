@@ -98,6 +98,28 @@ To run this project:
 
 ---
 
-## 📂 File Structure
+## 🛠️ Tools Used
+
+- **SQL Server (T-SQL)**
+- **SSMS (SQL Server Management Studio)**
+- Dataset is mock-generated for educational purposes.
+
+
+---
+
+## 🙋 About Me
+
+I’m **Olayinka Yusuf**, a passionate Data Analyst & Educator with a strong background in SQL, Excel, Power BI, and real-world business problem solving. Let’s connect:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)](https://www.linkedin.com/in/olayinka-yusuf-884362115/)
+- 🐙 [GitHub](https://github.com/Sahdam)
+- [email](yusufolayinka92@gmail.com)
+- 💼 Open to data roles | 📬 Reach me for collaborations!
+
+---
+
+## ⭐️ Support
+
+If you find this project helpful, feel free to ⭐️ star the repo and share with others!
 
 
